@@ -1,5 +1,5 @@
 # Question 1
-Included below are the **completed scripts with detailed explanatory annotation** (#) of the three sections (i, ii, iii)
+#### Included below are the **completed scripts with detailed explanatory annotation** (#) of the three sections (i, ii, iii)
 ### i) Plotting the bacterial growth data
 
 The data used here is based off a lab culture where an _Ecoli_ bacterial population was mixed with a growth medium (experiment1). Modelling the bacterial growth dynamics generates logistic growth ( with a sigmoidal curve as seen in plot1); a lag phase, exponential phase, and ultimately a stationary phase. The final growth phase exemplifies density dependence as the population growth rate is inhibited by depletion of growth medium resource.
@@ -189,7 +189,7 @@ https://github.com/PenguinsAssignment/logistic_growth/blob/main/compare_curves.R
 #### Graph output of script 
 <img width="785" alt="image" src="https://github.com/PenguinsAssignment/logistic_growth/assets/150163891/72b0e626-eb94-44de-b162-a371c7f64ea8">
 
-
+(Note: as in script - so as not to mask the scale of the output from the exponential growth function, I applied a log transformation to the y-axis as opposed to reducing the axis to a set limit)
 
 # References
 1) Bremer, H. “Variation of Generation Times in Escherichia Coli Populations: Its Cause and Implications.” Microbiology, vol. 128, no. 12, 1 Dec. 1982, pp. 2865–2876, https://doi.org/10.1099/00221287-128-12-2865. Accessed 7 Dec. 2019.
