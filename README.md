@@ -138,6 +138,7 @@ plot3 <- ggplot(aes(t,N), data = growth_data) +
     # Generated modeled logistic growth population dynamics = red curve
     # Data points for N at time t (from experiment1) = black points
 ```
+#### Graph (plot3) output of script 
 <img width="785" alt="image" src="https://github.com/PenguinsAssignment/logistic_growth/assets/150163891/9708da41-eaf7-455b-b4a2-740737858f8f">
 
 # Question 2
@@ -183,12 +184,10 @@ round(logistic_N4980, 2) == round(K, 2) #TRUE (= when rounded to 2dp)
 ### Comparing the exponential and logistic growth curves
 
 #### Link to script in repository
-(link here)
+https://github.com/PenguinsAssignment/logistic_growth/blob/main/compare_curves.R
 
 #### Graph output of script 
 <img width="785" alt="image" src="https://github.com/PenguinsAssignment/logistic_growth/assets/150163891/72b0e626-eb94-44de-b162-a371c7f64ea8">
-
-
 
 
 
